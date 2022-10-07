@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](type=wave&color=auto&height=300&section=header&text=SeongYeon's%20ReadMe&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeongYeon's%20ReadMe&fontSize=90)
 
 <!--
 **moad6127/moad6127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
