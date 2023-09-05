@@ -9,10 +9,16 @@
 게임개발을 공부하고 있는 개발자 입니다.
 
 
+# :eyes: Programming Status
 
+<div align=center>
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=moad6127)](https://solved.ac/profile/moad6127)
 
+</div>
 
-
+--------------------------------------------------------------------------------------------------
 
 
 # 멀티플레이 TPS 슈팅 게임
