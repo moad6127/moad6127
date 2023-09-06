@@ -20,8 +20,12 @@
 
 </div>
 
+<br/>
+<br/>
+
 --------------------------------------------------------------------------------------------------
 # Unreal엔진
+<br/>
 
 <details><summary>Unreal 엔진 펼치기</summary>
 <p>
@@ -44,17 +48,30 @@
 >간단한 오픈월드형식의 맵으로 제작된 솔로플레이형 게임
 
 ----------------------------------------------------------------------------------------------------
-
-# DirectX
-
 </p>
 </details>
 
+<br/>
+<br/>
+<br/>
+
+# DirectX
 <details><summary>Unreal DirectX 펼치기</summary>
 <p>
 
+# 카드 맞추기 게임
 
+![Solitaire_DX](https://github.com/moad6127/Unreal_MultiPlayShooter/assets/101626318/5ba78cdc-1afc-431f-9d32-3fb1f2e524e6)
+[카드 맞추기 게임](https://github.com/moad6127/Report/tree/master/DX_Sokoban)
+
+> 선택된 카드2개가 같은문양이면 사라지도록 만든 간단한 게임
+
+# SOKOBAN(창고지기)게임
+
+![Sokoban_DX](https://github.com/moad6127/Unreal_MultiPlayShooter/assets/101626318/6d9cb51a-8646-4c71-845b-a6c44bcc4e33)
+[SOKOBAN(창고지기)게임](https://github.com/moad6127/Report/tree/master/DX_Sokoban)
  
+> 이동키를 사용해서 상자를 밀어 원하는 위치에 놓으면 되는 게임
 
 
 </p>
