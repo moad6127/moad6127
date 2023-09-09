@@ -56,7 +56,7 @@
 <br/>
 
 # DirectX
-<details><summary>Unreal DirectX 펼치기</summary>
+<details><summary>DirectX 펼치기</summary>
 <p>
 
 # 카드 맞추기 게임
