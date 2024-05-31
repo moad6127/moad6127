@@ -24,14 +24,20 @@
 <br/>
 
 --------------------------------------------------------------------------------------------------
-# Unreal엔진 작업물
+# Unreal엔진
 <br/>
 
 <details><summary>Unreal 엔진 펼치기</summary>
 <p>
+
+## 공부 한것들
+
+인터넷 강의나 유튜브를 보면서 필요한 공부들을 해본것들
+(Shooting, Soul, GAS(GameplayAbilitySystem))
+
+<details><summary>펼치기</summary>
+<p>
 	
-
-
 ## 멀티플레이 TPS 슈팅 게임
 ![BlasterGameMode](https://github.com/moad6127/Unreal_MultiPlayShooter/assets/101626318/025dc39e-6d9a-4879-b979-eec4481be2af)
 [멀티플레이 TPS 슈팅 게임](https://github.com/moad6127/Unreal_MultiPlayShooter)
@@ -55,7 +61,16 @@
 >간단한 오픈월드형식의 맵으로 제작된 솔로플레이형 게임
 
 ----------------------------------------------------------------------------------------------------
+</p>
+</details>
 
+
+
+
+## 직접 만들어 본것
+
+<details><summary>펼치기</summary>
+<p>
 
 ## TopDown게임
 
@@ -74,11 +89,14 @@
 </p>
 </details>
 
+</p>
+</details>
+
 <br/>
 <br/>
 <br/>
 
-# DirectX 작업물
+# DirectX
 <details><summary>DirectX 펼치기</summary>
 <p>
 
