@@ -27,7 +27,7 @@
 # Unreal엔진
 <br/>
 
-<details><summary>Unreal 엔진 펼치기</summary>
+<details><summary>Unreal 엔진 접기/펼치기 </summary>
 <p>
 
 ## 공부 한것들
@@ -35,7 +35,7 @@
 인터넷 강의나 유튜브를 보면서 필요한 공부들을 해본것들
 (Shooting, Soul, GAS(GameplayAbilitySystem))
 
-<details><summary>펼치기</summary>
+<details><summary> 접기/펼치기 </summary>
 <p>
 	
 ## 멀티플레이 TPS 슈팅 게임
@@ -63,13 +63,15 @@
 ----------------------------------------------------------------------------------------------------
 </p>
 </details>
+<br/>
+<br/>
 
 
 
 
 ## 직접 만들어 본것
 
-<details><summary>펼치기</summary>
+<details><summary> 접기/펼치기 </summary>
 <p>
 
 ## TopDown게임
@@ -97,7 +99,7 @@
 <br/>
 
 # DirectX
-<details><summary>DirectX 펼치기</summary>
+<details><summary> DirectX 접기/펼치기 </summary>
 <p>
 
 # 카드 맞추기 게임
