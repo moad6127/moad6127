@@ -35,9 +35,22 @@
 인터넷 강의나 유튜브를 보면서 필요한 공부들을 해본것들
 (Shooting, Soul, GAS(GameplayAbilitySystem))
 
-<details><summary> 접기/펼치기 </summary>
-<p>
-	
+## GAS를 사용한 기본 RPG게임
+
+
+![Main](https://github.com/user-attachments/assets/87dde23b-2cca-4525-86ac-5367b597dfc2)
+[GAS를 사용한 TopDownRPG게임](https://github.com/moad6127/TopDownRPG)
+
+<img src="https://img.shields.io/badge/UnrealEngine5-074900?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/GAS-C1B2A3?style=flat&logo=GitHub&logoColor=red" />
+<img src="https://img.shields.io/badge/SaveGame-A1B2C3?style=flat&logo=GitHub&logoColor=white" />
+
+>Unreal 엔진의 GAS를 사용해서 기본적인 TopDown형식의 RPG게임 만들기
+
+
+----------------------------------------------------------------------------------------------------------
+<br/>
+
 ## 멀티플레이 TPS 슈팅 게임
 ![BlasterGameMode](https://github.com/moad6127/Unreal_MultiPlayShooter/assets/101626318/025dc39e-6d9a-4879-b979-eec4481be2af)
 [멀티플레이 TPS 슈팅 게임](https://github.com/moad6127/Unreal_MultiPlayShooter)
@@ -49,6 +62,7 @@
 >스팀 세션을 이용해 Server/Client방식으로 멀티플레이를 할수있도록 만든 3인칭 슈팅 게임
 
 ----------------------------------------------------------------------------------------------------------
+<br/>
 
 ## SimpleRPG게임
 ![ScreenShot00001](https://github.com/moad6127/Unreal_MultiPlayShooter/assets/101626318/a9ef161a-4a62-4b76-9962-cb4db7ee02ca)
@@ -61,8 +75,6 @@
 >간단한 오픈월드형식의 맵으로 제작된 솔로플레이형 게임
 
 ----------------------------------------------------------------------------------------------------
-</p>
-</details>
 <br/>
 <br/>
 
@@ -70,9 +82,6 @@
 
 
 ## 직접 만들어 본것
-
-<details><summary> 접기/펼치기 </summary>
-<p>
 
 ## TopDown게임
 
@@ -87,9 +96,6 @@
 > 뱀파이어 서바이벌류 TopDown게임
 
 ----------------------------------------------------------------------------------------------------
-
-</p>
-</details>
 
 </p>
 </details>
