@@ -95,6 +95,19 @@
 
 > 뱀파이어 서바이벌류 TopDown게임
 
+
+## Extraction Shooter
+
+<img src="https://img.shields.io/badge/UnrealEngine5-074900?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/ExtractionShooter-A1B2C3?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/InventorySystem-07A107?style=flat&logo=GitHub&logoColor=white" />
+
+[FPSShooting게임](https://github.com/moad6127/Unreal_FPSShooting)
+
+
+> Extraction장르의 FPSShooting게임으로 인벤토리시스템, 장비창시스템등이 존재하며 게임에서 여러가지 아이템을 찾아서 탈출하도록 만든 게임.
+
+
 ----------------------------------------------------------------------------------------------------
 
 </p>
