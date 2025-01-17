@@ -30,10 +30,33 @@
 <details><summary>Unreal 엔진 접기/펼치기 </summary>
 <p>
 
-## 공부 한것들
 
-인터넷 강의나 유튜브를 보면서 필요한 공부들을 해본것들
-(Shooting, Soul, GAS(GameplayAbilitySystem))
+## TopDown게임
+
+![TopDownGame](https://github.com/moad6127/Unreal_TopDown/assets/101626318/833f4200-307a-4f6b-a589-b25ca5577954)
+
+<img src="https://img.shields.io/badge/UnrealEngine5-074900?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/SaveGame-A1B2C3?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Roguelike-07A107?style=flat&logo=GitHub&logoColor=white" />
+
+[TopDown게임](https://github.com/moad6127/Unreal_TopDown)
+
+> 뱀파이어 서바이벌류 TopDown게임
+
+
+## Extraction Shooter
+
+![EquipmentInventory](https://github.com/user-attachments/assets/02b4fe7c-a96d-4e63-8d1c-542a66488970)
+
+<img src="https://img.shields.io/badge/UnrealEngine5-074900?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/InventorySystem-07A107?style=flat&logo=GitHub&logoColor=white" />
+
+[FPSShooting게임](https://github.com/moad6127/Unreal_FPSShooting)
+
+
+> FPSShooting게임으로 인벤토리시스템, 장비창시스템등이 존재하며 게임에서 여러가지 아이템을 찾는 게임.
+
+
 
 ## GAS를 사용한 기본 RPG게임
 
@@ -77,35 +100,6 @@
 ----------------------------------------------------------------------------------------------------
 <br/>
 <br/>
-
-
-
-
-## 직접 만들어 본것
-
-## TopDown게임
-
-![TopDownGame](https://github.com/moad6127/Unreal_TopDown/assets/101626318/833f4200-307a-4f6b-a589-b25ca5577954)
-
-<img src="https://img.shields.io/badge/UnrealEngine5-074900?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/SaveGame-A1B2C3?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Roguelike-07A107?style=flat&logo=GitHub&logoColor=white" />
-
-[TopDown게임](https://github.com/moad6127/Unreal_TopDown)
-
-> 뱀파이어 서바이벌류 TopDown게임
-
-
-## Extraction Shooter
-
-<img src="https://img.shields.io/badge/UnrealEngine5-074900?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/ExtractionShooter-A1B2C3?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/InventorySystem-07A107?style=flat&logo=GitHub&logoColor=white" />
-
-[FPSShooting게임](https://github.com/moad6127/Unreal_FPSShooting)
-
-
-> Extraction장르의 FPSShooting게임으로 인벤토리시스템, 장비창시스템등이 존재하며 게임에서 여러가지 아이템을 찾아서 탈출하도록 만든 게임.
 
 
 ----------------------------------------------------------------------------------------------------
