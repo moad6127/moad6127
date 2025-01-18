@@ -44,7 +44,7 @@
 > 뱀파이어 서바이벌류 TopDown게임
 
 
-## Extraction Shooter
+## Inventory FPS Shooter
 
 ![EquipmentInventory](https://github.com/user-attachments/assets/02b4fe7c-a96d-4e63-8d1c-542a66488970)
 
