@@ -49,6 +49,7 @@
 ![EquipmentInventory](https://github.com/user-attachments/assets/02b4fe7c-a96d-4e63-8d1c-542a66488970)
 
 <img src="https://img.shields.io/badge/UnrealEngine5-074900?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/plugin-0749a0?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/InventorySystem-07A107?style=flat&logo=GitHub&logoColor=white" />
 
 [FPSShooting게임](https://github.com/moad6127/Unreal_FPSShooting)
