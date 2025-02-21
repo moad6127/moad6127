@@ -46,17 +46,19 @@
 
 ## Inventory FPS Shooter
 
-![EquipmentInventory](https://github.com/user-attachments/assets/02b4fe7c-a96d-4e63-8d1c-542a66488970)
+![ScreenShot00007](https://github.com/user-attachments/assets/cceb26e9-b1c0-426a-941c-34cd79edf7c0)
+
 
 <img src="https://img.shields.io/badge/UnrealEngine5-074900?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/plugin-0749a0?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/InventorySystem-07A107?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/SaveGame-A1B2C3?style=flat&logo=GitHub&logoColor=white" />
 
 [FPSShooting게임](https://github.com/moad6127/Unreal_FPSShooting)
 
 
 > FPSShooting게임으로 인벤토리시스템, 장비창시스템등이 존재하며 게임에서 여러가지 아이템을 찾는 게임.
-
+> 아이템을 찾고 다른 맵으로 이동해 찾은 물건을 저장할수 있다.
 
 
 ## GAS를 사용한 기본 RPG게임
