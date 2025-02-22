@@ -4,9 +4,10 @@
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Unreal-1572B6?style=flat&logo=GitHub&logoColor=white" />
-  
-  
-게임개발을 공부하고 있는 개발자 입니다.
+
+
+  <span style="background-color:#DCFFE4">  ***언리얼 클라이언트 프로그래머***  </span>
+  를 목표로 게임개발을 공부하고 있는 개발자 입니다.
 
 
 # :eyes: Programming Status
