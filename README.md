@@ -45,7 +45,7 @@
 > 뱀파이어 서바이벌류 TopDown게임
 
 
-## Inventory FPS Shooter
+## Inventory FPS Game
 
 ![ScreenShot00007](https://github.com/user-attachments/assets/cceb26e9-b1c0-426a-941c-34cd79edf7c0)
 
