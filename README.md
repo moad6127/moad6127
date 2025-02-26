@@ -110,10 +110,10 @@
 
 *주요 기능*     
 
-> 스팀 세션을 활용한 멀티플레이 기능.
-> 클라이언트_서버 타입의 멀티플레이 게임.
-> 라인트레이스를 활용한 히트스캔 무기와 발사체를 활용한 무기들.
-> 팀데스매치, 깃발뺏기모드등 여러가지 모드.
+> 스팀 세션을 활용한 멀티플레이 기능.       
+> 클라이언트_서버 타입의 멀티플레이 게임.      
+> 라인트레이스를 활용한 히트스캔 무기와 발사체를 활용한 무기들.      
+> 팀데스매치, 깃발뺏기모드등 여러가지 모드.     
 
 ----------------------------------------------------------------------------------------------------------
 <br/>
@@ -122,6 +122,7 @@
 ![ScreenShot00001](https://github.com/moad6127/Unreal_MultiPlayShooter/assets/101626318/a9ef161a-4a62-4b76-9962-cb4db7ee02ca)
 
 <img src="https://img.shields.io/badge/UnrealEngine5-074900?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenWorld-0749AA?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/InventorySystem-1B6501?style=flat&logo=GitHub&logoColor=white" />
 
 [SimpleRPG게임](https://github.com/moad6127/Unreal_OpenWorldRPG)
@@ -130,10 +131,10 @@
 
 *주요 기능*   
 
-> 랜드이스캐이프를 활용한 오픈월드 맵 제작.
-> 캐릭터의 움직임을 향상된 Input을 사용해 제작.
-> 캐릭터의 이동, 공격, 회피등 다양한 움직임과 IK를 사용한 자연스러운 발 움직임.      
-> PawnSensing컴포넌트를 활용한 AI들의 동작.
+> 랜드이스캐이프를 활용한 오픈월드 맵 제작.      
+> 캐릭터의 움직임을 향상된 Input을 사용해 제작.       
+> 캐릭터의 이동, 공격, 회피등 다양한 움직임과 IK를 사용한 자연스러운 발 움직임.       
+> PawnSensing컴포넌트를 활용한 AI들의 동작.     
 > 부서지도록 만들어진 아이템.       
 ----------------------------------------------------------------------------------------------------
 <br/>
