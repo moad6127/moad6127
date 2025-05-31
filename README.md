@@ -138,6 +138,26 @@
 > 부서지도록 만들어진 아이템.       
 ----------------------------------------------------------------------------------------------------
 <br/>
+
+## AWS GameLift와 DedicatedServer를 활용한 멀티플레이 게임
+
+![ScreenShot00002](https://github.com/user-attachments/assets/c8a2b86b-68b1-4eed-b7da-26b823b32181)
+
+
+<img src="https://img.shields.io/badge/DedicatedServer-004900?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/AWSGameLift-AA491B?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/MultiPlay-1BAA01?style=flat&logo=GitHub&logoColor=white" />
+
+[DedicatedServer](https://github.com/moad6127/Unreal_DedicatedServer)
+
+> AWS GameLift와 AWS의 Cognito, DynamoDB를 사용해 멀티플레이 게임 제작하기
+
+*주요기능*
+
+> AWS의 Cognito를 사용해 사용자 계정 만들기         
+> AWS의 DynamoDB를 사용해 데이터 베이스를 만들고 사용자 데이터 저장하기            
+> Unreal5로 HTTP요청과 응답 받기              
+
 <br/>
 
 
