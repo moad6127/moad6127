@@ -24,6 +24,17 @@
 <br/>
 <br/>
 
+
+<details><summary> 컴퓨터/노트북 사양 </summary>
+<p>
+
+<img src="https://img.shields.io/badge/CPU-00AA00?style=flat&logo=GitHub&logoColor=white" />  AMD Ryzen 7 5800H       
+<img src="https://img.shields.io/badge/RAM-AA0000?style=flat&logo=GitHub&logoColor=white" />	16.0GB       
+<img src="https://img.shields.io/badge/GPU-AAAAAA?style=flat&logo=GitHub&logoColor=white" />	NVIDIA GeForce RTX 3050 Laptop GPU (4 GB)      
+
+</p>
+</details>
+
 --------------------------------------------------------------------------------------------------
 # Unreal엔진
 <br/>
