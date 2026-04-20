@@ -9,31 +9,9 @@
   <span style="background-color:#DCFFE4">  ***언리얼 클라이언트 프로그래머***  </span>
   를 목표로 게임개발을 공부하고 있는 개발자 입니다.
 
-
-# :eyes: Programming Status
-
-<div align=center>
-
-### 백준사이트
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=moad6127)](https://solved.ac/profile/moad6127)
-
-</div>
-
 <br/>
 <br/>
 
-
-<details><summary> 컴퓨터/노트북 사양 </summary>
-<p>
-
-<img src="https://img.shields.io/badge/CPU-00AA00?style=flat&logo=GitHub&logoColor=white" />  AMD Ryzen 7 5800H       
-<img src="https://img.shields.io/badge/RAM-AA0000?style=flat&logo=GitHub&logoColor=white" />	16.0GB       
-<img src="https://img.shields.io/badge/GPU-AAAAAA?style=flat&logo=GitHub&logoColor=white" />	NVIDIA GeForce RTX 3050 Laptop GPU (4 GB)      
-
-</p>
-</details>
 
 --------------------------------------------------------------------------------------------------
 # Unreal엔진
@@ -79,11 +57,42 @@
 *주요 기능*    
 > 인벤토리, 장비창이 존재해 원하는 아이템 장착 가능.     
 > 저장 기능이 존재해 SaveActor를 활용해 탈출하면 인벤토리, 장비창 저장 가능.    
-> AI가 캐릭터를 발견시 캐릭터 추적 및 공격 가능.    
+> AI가 캐릭터를 발견시 캐릭터 추적 및 공격 가능.
 
+## 3인칭 RPG Game
+
+<img src="https://img.shields.io/badge/GAS-110702?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/RPG-48AABA?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/3인칭-48AABA?style=flat&logo=GitHub&logoColor=white" />
+
+[3인칭 RPG게임](https://github.com/moad6127/SoulActionRPG)
+
+> GAS를 사용해 3인칭 RPG게임 제작하기
+
+*주요 기능*    
+> 장비에 따라서 다른 Ability능력 구성
+> 몬스터를 잡아서 나온 경험치를 직접사용해 Status능력치 분배
 
 ----------------------------------------------------------------------------------------------------
 <br/>
+
+## Inventory Plugin 구성하기
+
+
+
+<img src="https://img.shields.io/badge/Plugin-110702?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Inventory-48AABA?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Equipment-119281?style=flat&logo=GitHub&logoColor=white" />
+
+[Plugin_Inventory](https://github.com/moad6127/Unreal_Plugin_Inventory)
+
+> 공간형 인벤토리를 플러그인으로 구성해서 다른 프로젝트에서도 사용할수 있도록 하기
+
+*주요기능*
+> 공간형 인벤토리 구성하기
+> 장비창을 구현해 아이템을 장착할수 있도록 하기
+> Unreal 플러그인으로 만들어 다른프로젝트에서도 사용할수 있도록 만들기
+
 
 ## AWS GameLift와 DedicatedServer를 활용한 멀티플레이 게임
 
