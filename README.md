@@ -78,6 +78,7 @@
 
 ## Inventory Plugin 구성하기
 
+<img width="1938" height="1058" alt="Image" src="https://github.com/user-attachments/assets/4591f4de-0f84-44f2-b258-ddfcaf81ba81" />
 
 
 <img src="https://img.shields.io/badge/Plugin-110702?style=flat&logo=GitHub&logoColor=white" />
@@ -86,12 +87,12 @@
 
 [Plugin_Inventory](https://github.com/moad6127/Unreal_Plugin_Inventory)
 
-> 공간형 인벤토리를 플러그인으로 구성해서 다른 프로젝트에서도 사용할수 있도록 하기
+> 공간형 인벤토리를 플러그인으로 구성해서 다른 프로젝트에서도 사용할수 있도록 하기                                 
 
 *주요기능*
-> 공간형 인벤토리 구성하기
-> 장비창을 구현해 아이템을 장착할수 있도록 하기
-> Unreal 플러그인으로 만들어 다른프로젝트에서도 사용할수 있도록 만들기
+> 공간형 인벤토리 구성하기             
+> 장비창을 구현해 아이템을 장착할수 있도록 하기               
+> Unreal 플러그인으로 만들어 다른프로젝트에서도 사용할수 있도록 만들기                           
 
 
 ## AWS GameLift와 DedicatedServer를 활용한 멀티플레이 게임
