@@ -59,21 +59,8 @@
 > 저장 기능이 존재해 SaveActor를 활용해 탈출하면 인벤토리, 장비창 저장 가능.    
 > AI가 캐릭터를 발견시 캐릭터 추적 및 공격 가능.
 
-## 3인칭 RPG Game
 
-<img src="https://img.shields.io/badge/GAS-110702?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/RPG-48AABA?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/3인칭-48AABA?style=flat&logo=GitHub&logoColor=white" />
 
-[3인칭 RPG게임](https://github.com/moad6127/SoulActionRPG)
-
-> GAS를 사용해 3인칭 RPG게임 제작하기
-
-*주요 기능*    
-> 장비에 따라서 다른 Ability능력 구성
-> 몬스터를 잡아서 나온 경험치를 직접사용해 Status능력치 분배
-
-----------------------------------------------------------------------------------------------------
 <br/>
 
 ## Inventory Plugin 구성하기
@@ -92,7 +79,24 @@
 *주요기능*
 > 공간형 인벤토리 구성하기             
 > 장비창을 구현해 아이템을 장착할수 있도록 하기               
-> Unreal 플러그인으로 만들어 다른프로젝트에서도 사용할수 있도록 만들기                           
+> Unreal 플러그인으로 만들어 다른프로젝트에서도 사용할수 있도록 만들기                          
+
+
+## 3인칭 RPG Game
+
+<img src="https://img.shields.io/badge/GAS-110702?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/RPG-48AABA?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/3인칭-48AABA?style=flat&logo=GitHub&logoColor=white" />
+
+[3인칭 RPG게임](https://github.com/moad6127/SoulActionRPG)
+
+> GAS를 사용해 3인칭 RPG게임 제작하기
+
+*주요 기능*    
+> 장비에 따라서 다른 Ability능력 구성
+> 몬스터를 잡아서 나온 경험치를 직접사용해 Status능력치 분배            
+
+----------------------------------------------------------------------------------------------------
 
 
 ## AWS GameLift와 DedicatedServer를 활용한 멀티플레이 게임
